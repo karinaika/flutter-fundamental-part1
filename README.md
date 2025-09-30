@@ -129,3 +129,26 @@
   ![new_flutter](images/P3langkah12_1.png)
 
   ![new_flutter](images/P3langkah12_2.png)
+
+### Praktikum 4: Menerapkan Widget Dasar
+**Langkah 1: Text Widget**
+- Buat folder baru basic_widgets di dalam folder lib. Kemudian buat file baru di dalam basic_widgets dengan nama text_widget.dart. Ketik atau salin kode program berikut ke project hello_world Anda pada file text_widget.dart. 
+  Lakukan import file text_widget.dart ke main.dart, lalu ganti bagian text widget dengan kode di atas. Maka hasilnya seperti gambar berikut.
+
+  ![new_flutter](images/P4langkah1.png)
+
+**Langkah 2: Image Widget**
+- Buat sebuah file image_widget.dart di dalam folder basic_widgets dengan isi kode berikut.
+
+  ![new_flutter](images/P4langkah2_1.png)
+
+  Lakukan penyesuaian asset pada file pubspec.yaml dan tambahkan file logo Anda di folder assets project hello_world.
+
+  ![new_flutter](images/P4langkah2_2.png)
+
+  Jangan lupa sesuaikan kode dan import di file main.dart kemudian akan tampil gambar seperti berikut.
+
+  ![new_flutter](images/P4langkah2_3.png)
+
+  ![new_flutter](images/P4langkah2_4.png)
+
